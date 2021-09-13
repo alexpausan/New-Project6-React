@@ -19,8 +19,8 @@ const Home = () => {
           home
         </h1>
       </Link>
-      <AppComponent></AppComponent>
       <h1>Heading</h1>
+      <AppComponent></AppComponent>
     </div>
   )
 }
