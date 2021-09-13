@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  height: 232px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #c9ffb3;
+}
+.image {
+  width: 100px;
+  object-fit: cover;
+}
